@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent Workflow Architect"
+  short_description: "面向非技术产品经理的 Agent 工作流设计、实现与审查负责人"
+  default_prompt: "Use $agent-workflow-architect to turn my business idea into a realistic, testable Agent workflow."
+policy:
+  allow_implicit_invocation: true
